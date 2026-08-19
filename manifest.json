@@ -1,5 +1,5 @@
 {
-  "plugin_id": "napcat_large_file_transport",
+  "plugin_id": "kira-ai-plugin-napcat-large-file-transport",
   "display_name": "NapCat 大文件传输",
   "version": "1.0.0",
   "author": "xgrbhc",
