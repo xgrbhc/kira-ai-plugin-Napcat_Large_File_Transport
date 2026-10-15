@@ -1,5 +1,7 @@
 # NapCat 大文件传输插件
 
+<img src="icon.png" alt="液体猫传输图标" width="128" height="128" />
+
 `napcat_large_file_transport` 用于在不修改 KiraAI 核心源码的情况下，绕开 QQ/NapCat 大文件通过 `base64://` 单包发送导致 WebSocket 断连的问题。
 
 ## 工作方式
